@@ -1,10 +1,4 @@
 # React Cove-site
-## Introduction
-
-This is a Shopping site to shop the various kinds of coves
-
-[Live site](https://www.covesmart.com/)
-
 
 ## Table of Contents
 
@@ -13,7 +7,13 @@ This is a Shopping site to shop the various kinds of coves
       * [Prerequisites](#Prerequisites)
       * [Getting Started](#getting-started)
       * [screenshot](#screenshot)
-      
+
+## Introduction
+
+This is a Shopping site to shop the various kinds of coves
+
+[Live site](https://www.covesmart.com/)
+
 ## Prerequisites
 
 You will need the following resources properly installed on the machine.
@@ -37,12 +37,12 @@ $ run yarn dev or npm run dev to start the local webserver on port 3000
 ![image](https://github.com/Midas0615/React-Cove-site/blob/master/Cove.png)
 
 ### Try Cove Free-Risk 
-![image](https://github.com/Midas0615/React-Cove-site/blob/master/Try Cove Free-Risk.png)
+![image](https://github.com/Midas0615/React-Cove-site/blob/master/Try_Cove_Free-Risk.png)
 
 ### Shopping
 ![image](https://github.com/Midas0615/React-Cove-site/blob/master/Shopping.png)
 
 ### Customize Cove System
-![image](https://github.com/Midas0615/React-Cove-site/blob/master/Customize Cove System.png)
+![image](https://github.com/Midas0615/React-Cove-site/blob/master/Customize_Cove_System.png)
 
 
