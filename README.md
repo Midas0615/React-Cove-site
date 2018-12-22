@@ -43,6 +43,6 @@ $ run yarn dev or npm run dev to start the local webserver on port 3000
 ![image](https://github.com/Midas0615/React-Cove-site/blob/master/Shopping.png)
 
 ### Customize Cove System
-![image](https://github.com/Midas0615/React-Cove-site/blob/master/Shopping.png)
+![image](https://github.com/Midas0615/React-Cove-site/blob/master/Customize Cove System.png)
 
 
