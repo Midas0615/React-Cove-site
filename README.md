@@ -33,12 +33,16 @@ $ run yarn dev or npm run dev to start the local webserver on port 3000
 
 ## Screenshots
 
-### Booking
-![image](https://github.com/Midas0615/Angular-admin/blob/master/Booking.png)
+### Cove
+![image](https://github.com/Midas0615/React-Cove-site/blob/master/Cove.png)
 
-### Categories
-![image](https://github.com/Midas0615/Angular-admin/blob/master/Categories.png)
+### Try Cove Free-Risk 
+![image](https://github.com/Midas0615/React-Cove-site/blob/master/Try Cove Free-Risk.png)
 
-### Banners
-![image](https://github.com/Midas0615/Angular-admin/blob/master/Banners.png)
+### Shopping
+![image](https://github.com/Midas0615/React-Cove-site/blob/master/Shopping.png)
+
+### Customize Cove System
+![image](https://github.com/Midas0615/React-Cove-site/blob/master/Shopping.png)
+
 
