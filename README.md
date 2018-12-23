@@ -10,7 +10,8 @@
 
 ## Introduction
 
-This is a Shopping site to shop the various kinds of coves
+This is a Shopping site to shop stasfied cove system to protect your home and loved ones with Cove’s easy home security system. 
+Cove is an all-in-one protection system that offers the most value for the lowest cost.
 
 [Live site](https://www.covesmart.com/)
 
