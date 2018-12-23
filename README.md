@@ -15,6 +15,8 @@ Cove is an all-in-one protection system that offers the most value for the lowes
 
 [Live site](https://www.covesmart.com/)
 
+[Demo](https://www.dropbox.com/home?preview=Cove-Demo.mov)
+
 ## Prerequisites
 
 You will need the following resources properly installed on the machine.
